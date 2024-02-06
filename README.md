@@ -2,13 +2,13 @@
 
 💧 FrontEnd: React, Next.js, Remix, Vue, Redux, , TailwindCSS, SCSS, Javascript, ES6+, Typescript, WordPress, Shopify
 
-🔸 BackEnd: Node.js, ExpressJS, Nest.js, Python, Django, Flask, AWS, RESTFul API, PostgreSQL, AI, ML
+🔸 BackEnd: Node.js, ExpressJS, Nest.js, Python, Django, Flask, AWS, RESTFul API, PostgreSQL, Laravel, PHP
 
 ☀️ Mobile App: React Native, Android Java, C#
 
 🚀 Database: PostgreSQL, MySQL, MongoDB, Redis, ORM(TypeORM, Sequelize, Prisma, SQLAlchemy), Knex
 
-💥 Others: D3.js, ChartJS, React-hook-form, Three.js, Apollo GraphQL, Hasura, tRPC, Adobe XD, Blockchain, Solidity, Smart Contract, Web3.js
+💥 Others: Blockchain, Solidity, Smart Contract, Web3.js, D3.js, ChartJS, React-hook-form, Three.js, Apollo GraphQL, Hasura, tRPC, Adobe XD
 
 
 ## 💫 My🌟BEST🌟 SKILLS
