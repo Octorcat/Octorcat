@@ -131,8 +131,8 @@
       <br>Bootstrap
     </td>
     <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=babel" width="45" height="45" alt="babel" />
-      <br>Babel
+      <img src="https://skillicons.dev/icons?i=anchor" width="45" height="45" alt="anchor" />
+      <br>Anchor
     </td>
     <td align="center" width="90">
       <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="55" height="55" />
