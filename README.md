@@ -1,6 +1,6 @@
 ## 💬 Talk with me 
 
-💧 Frontend: React, Next.js, Remix, Vue, Redux, TailwindCSS, SCSS
+💧 Frontend: React, Next.js, Remix, Vue, Angular, Redux, TailwindCSS, SCSS
 
 🔸 Backend: Node.js, ExpressJS, Nest.js, Django, Flask, Laravel
 
@@ -56,7 +56,7 @@
     </td>
     <td align="center" width="90">
       <img src="https://skillicons.dev/icons?i=angular" width="45" height="45" alt="Bootstrap" />
-      <br>Bootstrap
+      <br>Angular
     </td>
   </tr>
   <tr>
