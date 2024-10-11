@@ -1,15 +1,16 @@
 ## 💬 Talk with me 
 
-💧 FrontEnd: React, Next.js, Remix, Vue, Redux, , TailwindCSS, SCSS, Javascript, ES6+, Typescript, WordPress, Shopify
+💧 Frontend: React, Next.js, Remix, Vue, Redux, TailwindCSS, SCSS
 
-🔸 BackEnd: Node.js, ExpressJS, Nest.js, Python, Django, Flask, AWS, RESTFul API, PostgreSQL, Laravel, PHP
+🔸 Backend: Node.js, ExpressJS, Nest.js, Django, Flask, Laravel
 
-☀️ Mobile App: React Native, Android Java, C#
+☀️ Languages: JavaScript (ES6+), TypeScript, Python, Rust, Solidity, Func, PHP
 
-🚀 Database: PostgreSQL, MySQL, MongoDB, Redis, ORM(TypeORM, Sequelize, Prisma, SQLAlchemy), Knex
+🚀 Databases: PostgreSQL, MySQL, MongoDB, Redis, Firebase, MSSQL, SQLite
 
-💥 Others: Blockchain, Solidity, Smart Contract, Web3.js, D3.js, ChartJS, React-hook-form, Three.js, Apollo GraphQL, Hasura, tRPC, Adobe XD
+💥 Smart Contract Development: Anchor, Solidity
 
+🔧 DevOps: AWS, Microsoft Azure, Kubernetes
 
 ## 💫 My🌟BEST🌟 SKILLS
 <p align="center">
@@ -20,20 +21,16 @@
       <br>React
     </td>
     <td align="center" width="90">
-      <img src="https://techstack-generator.vercel.app/redux-icon.svg" alt="icon" width="55" height="55" />
-      <br>Redux
-    </td>
-    <td align="center" width="90">
       <img src="https://skillicons.dev/icons?i=nextjs" width="45" height="45" alt="Next.js" />
       <br>Next.js
     </td>
     <td align="center" width="90">
-      <img src="https://techstack-generator.vercel.app/gatsby-icon.svg" alt="icon" width="55" height="55" />
-      <br>Gatsby
-    </td>
-    <td align="center" width="90">
       <img src="https://skillicons.dev/icons?i=vue" width="45" height="45" alt="Vue" />
       <br>Vue
+    </td>
+    <td align="center" width="90">
+      <img src="https://techstack-generator.vercel.app/redux-icon.svg" alt="icon" width="55" height="55" />
+      <br>Redux
     </td>
     <td align="center" width="90">
       <img src="https://skillicons.dev/icons?i=nuxtjs" width="45" height="45" alt="Nuxt.js" />
