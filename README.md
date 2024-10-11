@@ -165,8 +165,8 @@
       <br>SQLite
     </td>
     <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=flutter" width="45" height="45" alt="Flutter" />
-      <br>Flutter
+      <img src="https://skillicons.dev/icons?i=firebase" width="45" height="45" alt="Firebase" />
+      <br>Firebase
     </td>
     <td align="center" width="90">
       <img src="https://skillicons.dev/icons?i=androidstudio" width="45" height="45" alt="AndroidStudio" />
