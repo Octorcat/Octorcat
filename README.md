@@ -135,7 +135,7 @@
       <br>Babel
     </td>
     <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=docker" width="45" height="45" alt="Docker" />
+      <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="55" height="55" />
       <br>Docker
     </td>
     <td align="center" width="90">
